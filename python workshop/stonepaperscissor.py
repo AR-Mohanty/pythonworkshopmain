@@ -1,5 +1,6 @@
 # Rock
 import random
+print("Welcome to stone, paper, scissor game")
 print("""
     _______
 ---'   ____)
